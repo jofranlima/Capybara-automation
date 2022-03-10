@@ -1,0 +1,18 @@
+1*- leitura do projeto
+
+2*- divisão de testes por tela, para aplicar o conceito de page actions ou  Objetcts
+
+3*- formulação do roteiro de testes
+
+4*- testes manuais
+
+Bug - Pagina não permite nomes com hifen
+Ao inserir email sem ponto a pagina não informa email nao permitido
+
+5*- automação de testes
+
+CI / CD do processo
+
+dai cereja do bolo kkk
+
+se subir para o git actions pega vaga até de pleno

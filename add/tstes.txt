@@ -1,0 +1,27 @@
+Login 
+
+Login com email incorreto
+email com caracteres invalidos
+Senha incorreta
+Login com campos invalidos(vazios)
+
+-----
+
+Cadastro 
+
+Cadastro com Sucesso
+Cadastro com senha menor que 8 digitos
+Cadastro com email com caracteres invalidos
+nome com caracteres válidos
+Cadastro com campos vazios
+Validar se API externa é acessada (github, linkedin, google)
+----------
+
+Empresa
+
+Buscar empresa e vaga com Sucesso
+Empresa fora do banco de dados
+vaga não encontrada 
+
+
+

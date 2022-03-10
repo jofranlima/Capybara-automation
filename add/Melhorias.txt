@@ -1,0 +1,24 @@
+Cenário
+    Campo nome não aceita caracteres do expeciais. Ex: tipo hífen em nomes compostos
+    EX. Kareen Abdul-Jabbar
+    Barra de progresso do formulário exibe somente uma simples barra sem indicação percentual ou de steps, por exemplo.
+
+Cadastro
+
+    No formulário de cadastro caso o usuario clique em li os temos e nao preencha e não clique no campo não é informada uma mensagem de feedback.
+
+Vagas
+    Ao clicar no botão de georreferenciamento deveria ser exibidas as vagas remotas por deafult
+
+
+
+Bug
+    Tela de cadastro possibilida cadastrar nome com valor email
+    tela de cadastro permite cadastrar email sem validação
+    Tela de cadastro de aceite de termos não exibe mensagem de obrigatoriedade de aceite
+    Pagina de indicação de habilidades não fornece mensagem de feedback ao não preencher campos obrigatórios
+    Campo telefone permite inserção de DDD fora da lista de DDD's válidos
+    Ao clicar no icone de georreferenciamento deveria ser exibida a caixa de solicitaçãod e acesso ao local pelo navegador
+
+
+
