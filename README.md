@@ -24,4 +24,5 @@ bundle install
 Para executar os testes, execute o seguinte comando:
 cucumber
 
-Jofran Lima
+## Licença
+Este projeto está licenciado sob a Licença MIT e foi criado por JOFRAN LIMA. Veja o arquivo LICENSE para detalhes.
